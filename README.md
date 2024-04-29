@@ -37,8 +37,7 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-![Uploading 4.png…]()
-
+![4](https://github.com/Vineesh-AI-DS/ARP-Attack-and-Network-Sniffing/assets/93427254/749af8de-e06e-401d-b4c3-3ec02f4df8f6)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
